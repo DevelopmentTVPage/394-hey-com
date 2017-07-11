@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Hey"
+baseURL = "https:\/\/hey.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "hey.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
